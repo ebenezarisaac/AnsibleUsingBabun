@@ -16,7 +16,7 @@
 
 * Download a package from https://pypi.python.org/ (click on the packages below)
 * Untar it using the following command 
-* Tar –xvf packagename.gz
+* tar –xvf packagename.gz
 * Install the package using python setup.py install
 * Do this for all the following packages
 
